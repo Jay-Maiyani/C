@@ -1,5 +1,5 @@
 //First C Program
-#include <stdio.h> // for including print function
+#include <stdio.h> // calling a library for including print function
 
 int main() 
 {
